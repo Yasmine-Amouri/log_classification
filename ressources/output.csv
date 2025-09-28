@@ -1,0 +1,9 @@
+source,log_message,target_label
+BillingSystem,User User231 logged in.,User Action
+LegacyCRM,Lead conversion failed for prospect ID 100 due to missing contact information.,Workflow Error
+ModernCRM,Email service experiencing issues with sending.,Error
+LegacyCRM,API endpoint 'getCustomerDetails' is deprecated and will be removed in version 3.2. Use 'fetchCustomerInfo' instead.,Deprecation Warning
+ThirdPartyAPI,File data_300.csv uploaded successfully by user User50.,System Notification
+ModernHR,User 80 made multiple failed login attempts.,Security Alert
+AnalyticsEngine,System component has failed: component ID Component450.,Critical Error
+ModernCRM,alpha.osapi_compute.wsgi.server - 12.10.11.1 - API returned 404 not found error.,HTTP Status
